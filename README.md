@@ -18,7 +18,7 @@ Assim, apesar do miojo levar apenas três minutos para ser cozido, ele precisa d
 
 Faça um programa que, dado o tempo de preparo do miojo, e os tempos das duas ampulhetas (ambos maiores que o tempo do miojo), determina o tempo mínimo necessário para o miojo ficar pronto ou se não é possível cozinhar o miojo no tempo exato com as ampulhetas disponíveis.
 
-# Após instalar o NodeJS, execute o comando abaixo dentro da pasta onde está o arquivo miojo.js
+#### Após instalar o NodeJS, execute o comando abaixo dentro da pasta onde está o arquivo miojo.js
 
 ````
 node miojo.js 7 5 3
